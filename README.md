@@ -6,5 +6,5 @@ Run-Project é um script que possibilita a execução da simulação de um proje
 1. Mover os arquivos `run.bat` e `run.python` para a pasta do simulador da placa Pitanga.
 2. Abrir o console com o ambiente virtual da placa Pitanga.
 3. Executar um projeto:
-  * __No Windows__: Executar `python run.py <pasta do projeto>`
-  * __No Linux__: Executar `python3 run.py <pasta do projeto>`
+  * __No windows__: Executar `run <pasta do projeto>`
+  * __No linux__: Executar `python3 run.py <pasta do projeto>`
